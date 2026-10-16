@@ -15,3 +15,5 @@ Realiza el flujo habitual
 Practicas de git
 
 Vinicius payaso
+
+Este repositorio contiene mis prácticas de Git y una pequeña página web.
